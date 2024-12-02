@@ -1,4 +1,4 @@
-# BSTsearch
+# DSA-InClass-BSTSearch
 
 Features
 
